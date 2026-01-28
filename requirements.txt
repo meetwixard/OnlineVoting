@@ -1,0 +1,13 @@
+# Web Framework
+Flask==3.1.1
+Flask-SQLAlchemy==3.1.1
+SQLAlchemy==2.0.46
+
+# Environment Management
+python-dotenv==1.0.1
+
+# Production Server (Standard for Linux/macOS)
+gunicorn==23.0.0
+
+# Database Driver (For when you move to PostgreSQL)
+# psycopg2-binary==2.9.10
